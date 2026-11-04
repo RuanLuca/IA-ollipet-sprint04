@@ -21,4 +21,4 @@ A arquitetura segue o padrão MVC (Model-View-Controller) adaptado para APIs RES
 ## Instruções de Uso
 1. Faça o clone do repositório:
    ```bash
-   git clone https://github.com/Olli-Pet/challenge_clyvo_arduino
+   git clone https://github.com/RuanLuca/IA-ollipet-sprint04
